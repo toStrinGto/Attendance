@@ -1,0 +1,11 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    { "id": 1, "name": "张三", "role": "木工", "avatar": "张" },
+    { "id": 2, "name": "李四", "role": "钢筋工", "avatar": "李" },
+    { "id": 3, "name": "王五", "role": "泥瓦工", "avatar": "王" },
+    { "id": 4, "name": "赵六", "role": "水电工", "avatar": "赵" },
+    { "id": 5, "name": "孙七", "role": "普工", "avatar": "孙" }
+  ]
+}
